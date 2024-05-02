@@ -1,4 +1,6 @@
 # webui-llama-3
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)](https://huggingface.co/fiveflow/KoLlama-3-8B-Instruct)
+
 # 가상환경 세팅
 ```
 python3 -m venv .venv
